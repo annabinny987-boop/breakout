@@ -74,7 +74,7 @@ The game-over screen showing the final score and restart option.
 
 This project was created as part of the **20 Games Making Challenge**.
 
-Game 3 – Breakout
+**Game 3 – Breakout**
 
 # Made With
 
