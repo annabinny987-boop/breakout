@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c7ajtwalcqnra"]
+
+[ext_resource type="Script" uid="uid://cdx7hb0w0afii" path="res://breakout.gd" id="1_c0y4l"]
+
+[node name="Breakout" type="Node2D" unique_id=1206068936]
+script = ExtResource("1_c0y4l")
