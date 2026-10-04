@@ -49,7 +49,7 @@ Through this project, I learned the basics of 2D game development, including:
 - Restarting the game
 - Debugging and testing game mechanics
 
-#Challenges Faced
+# Challenges Faced
 
 The main challenges I faced were getting the ball movement and collision detection working correctly.
 
@@ -57,7 +57,7 @@ I also had to handle the paddle movement, brick destruction, scoring system, liv
 
 By testing and debugging different parts of the game, I was able to fix the issues and complete the game successfully.
 
-# 📸 Screenshots
+#  Screenshots
 <img width="1838" height="1109" alt="Screenshot 2026-10-04 184844" src="https://github.com/user-attachments/assets/c7092bc0-1179-4973-8107-183c790c94e2" />
 
 <img width="1892" height="1071" alt="Screenshot 2026-10-04 184901" src="https://github.com/user-attachments/assets/5d0e4c7e-4963-48f4-92df-8f14b2a8ba87" />
@@ -74,7 +74,7 @@ The game-over screen showing the final score and restart option.
 
 This project was created as part of the **20 Games Making Challenge**.
 
-**Game 3 – Breakout**
+Game 3 – Breakout
 
 # Made With
 
